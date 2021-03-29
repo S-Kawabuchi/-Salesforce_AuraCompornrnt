@@ -1,0 +1,5 @@
+<aura:compornent>
+    <aura:attribute name="Name" type="Object"/>
+    <aura:attribute name="recordId" type="String"/>
+    <aura:attribute name="record" type="Id"/>
+</aura:compornent>
